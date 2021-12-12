@@ -16,4 +16,4 @@
 # BYT9-10
 # BYT9-10
 # BYT9-10
-![meme](meme.png)
+![meme](meme.jpg)
